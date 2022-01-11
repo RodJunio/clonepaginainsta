@@ -29,9 +29,9 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 80%;
+    width: 50%;
 }
 
 .instagram-phone img {
-    height: 50rem;
+    height: 150rem;
 }
